@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiveClassAI</string>
+    <string name="join_class">JOIN CLASS</string>
+    <string name="grant_permissions">GRANT PERMISSIONS</string>
+</resources>
